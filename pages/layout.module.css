@@ -1,0 +1,49 @@
+.container {
+    background: yellow;
+    /* default background */
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+}
+
+/* Adding fruit and color themes */
+.appleTheme {
+    background-color: #f0f8ff;
+    /* light apple red */
+}
+
+.bananaTheme {
+    background-color: #fffdd0;
+    /* banana yellow */
+}
+
+.cherryTheme {
+    background-color: #ffe4e1;
+    /* cherry pink */
+}
+
+.citrusTheme {
+    background-color: #fffacd;
+    /* lemon yellow */
+}
+
+.grapeTheme {
+    background-color: #e6e6fa;
+    /* lavender for grapes */
+}
+
+.tropicalTheme {
+    background-color: #ffefd5;
+    /* papaya whip for tropical fruits */
+}
+
+.berriesTheme {
+    background-color: #ffe4c4;
+    /* bisque for berries */
+}
+
+/* Text color for contrast */
+.text {
+    color: #333;
+    /* Ensuring good readability across all themes */
+}
